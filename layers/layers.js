@@ -118,16 +118,16 @@ var lyr_Vekoszpornchrozdielov_8 = new ol.layer.Vector({
                 style: style_Vekoszpornchrozdielov_8,
                 interactive: false,
     title: 'Veľkosť záporných rozdielov<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_8_0.png" /> -2.175 - -0.28<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_8_1.png" /> -0.28 - -0.189<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_8_2.png" /> -0.189 - -0.143<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_8_3.png" /> -0.143 - -0.104<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_8_4.png" /> -0.104 - -0.08<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_8_5.png" /> -0.08 - -0.06<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_8_6.png" /> -0.06 - -0.043<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_8_7.png" /> -0.043 - -0.028<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_8_8.png" /> -0.028 - -0.016<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_8_9.png" /> -0.016 - 0<br />'
+    <img src="styles/legend/Vekoszpornchrozdielov_8_0.png" /> -2.175 m - -0.280 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_8_1.png" /> -0.280 m - -0.189 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_8_2.png" /> -0.189 m - -0.143 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_8_3.png" /> -0.143 m - -0.104 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_8_4.png" /> -0.104 m - -0.080 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_8_5.png" /> -0.080 m - -0.060 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_8_6.png" /> -0.060 m - -0.043 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_8_7.png" /> -0.043 m - -0.028 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_8_8.png" /> -0.028 m - -0.016 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_8_9.png" /> -0.016 m - 0 m<br />'
         });
 var format_Vekoskladnchrozdielov_9 = new ol.format.GeoJSON();
 var features_Vekoskladnchrozdielov_9 = format_Vekoskladnchrozdielov_9.readFeatures(json_Vekoskladnchrozdielov_9, 
@@ -227,16 +227,16 @@ var lyr_Vekoszpornchrozdielov_13 = new ol.layer.Vector({
                 style: style_Vekoszpornchrozdielov_13,
                 interactive: false,
     title: 'Veľkosť záporných rozdielov<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_13_0.png" /> -2.175 - -0.28<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_13_1.png" /> -0.28 - -0.189<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_13_2.png" /> -0.189 - -0.143<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_13_3.png" /> -0.143 - -0.104<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_13_4.png" /> -0.104 - -0.08<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_13_5.png" /> -0.08 - -0.06<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_13_6.png" /> -0.06 - -0.043<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_13_7.png" /> -0.043 - -0.028<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_13_8.png" /> -0.028 - -0.016<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_13_9.png" /> -0.016 - 0<br />'
+    <img src="styles/legend/Vekoszpornchrozdielov_13_0.png" /> -2.175 m - -0.280 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_13_1.png" /> -0.280 m - -0.189 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_13_2.png" /> -0.189 m - -0.143 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_13_3.png" /> -0.143 m - -0.104 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_13_4.png" /> -0.104 m - -0.080 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_13_5.png" /> -0.080 m - -0.060 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_13_6.png" /> -0.060 m - -0.043 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_13_7.png" /> -0.043 m - -0.028 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_13_8.png" /> -0.028 m - -0.016 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_13_9.png" /> -0.016 m - 0 m<br />'
         });
 var format_Vekoskladnchrozdielov_14 = new ol.format.GeoJSON();
 var features_Vekoskladnchrozdielov_14 = format_Vekoskladnchrozdielov_14.readFeatures(json_Vekoskladnchrozdielov_14, 
@@ -336,16 +336,16 @@ var lyr_Vekoszpornchrozdielov_18 = new ol.layer.Vector({
                 style: style_Vekoszpornchrozdielov_18,
                 interactive: false,
     title: 'Veľkosť záporných rozdielov<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_18_0.png" /> -2.175 - -0.28<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_18_1.png" /> -0.28 - -0.189<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_18_2.png" /> -0.189 - -0.143<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_18_3.png" /> -0.143 - -0.104<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_18_4.png" /> -0.104 - -0.08<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_18_5.png" /> -0.08 - -0.06<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_18_6.png" /> -0.06 - -0.043<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_18_7.png" /> -0.043 - -0.028<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_18_8.png" /> -0.028 - -0.016<br />\
-    <img src="styles/legend/Vekoszpornchrozdielov_18_9.png" /> -0.016 - 0<br />'
+    <img src="styles/legend/Vekoszpornchrozdielov_18_0.png" /> -2.175 m - -0.280 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_18_1.png" /> -0.280 m - -0.189 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_18_2.png" /> -0.189 m - -0.143 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_18_3.png" /> -0.143 m - -0.104 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_18_4.png" /> -0.104 m - -0.080 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_18_5.png" /> -0.080 m - -0.060 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_18_6.png" /> -0.060 m - -0.043 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_18_7.png" /> -0.043 m - -0.028 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_18_8.png" /> -0.028 m - -0.016 m<br />\
+    <img src="styles/legend/Vekoszpornchrozdielov_18_9.png" /> -0.016 m - 0 m<br />'
         });
 var format_Vekoskladnchrozdielov_19 = new ol.format.GeoJSON();
 var features_Vekoskladnchrozdielov_19 = format_Vekoskladnchrozdielov_19.readFeatures(json_Vekoskladnchrozdielov_19, 
@@ -528,6 +528,21 @@ var lyr_Kladnrozdiely_26 = new ol.layer.Vector({
     <img src="styles/legend/Kladnrozdiely_26_8.png" /> 0.419 m - 1.457 m<br />\
     <img src="styles/legend/Kladnrozdiely_26_9.png" /> 1.457 m - 3.227 m<br />'
         });
+var lyr_Ortofotomozaika_27 = new ol.layer.Tile({
+                            source: new ol.source.TileWMS(({
+                              url: "https://zbgisws.skgeodesy.sk/zbgis_ortofoto_wms/service.svc/get",
+    attributions: ' ',
+                              params: {
+                                "LAYERS": "1",
+                                "TILED": "true",
+                                "VERSION": "1.3.0"},
+                            })),
+                            title: "Ortofotomozaika",
+                            opacity: 1.000000,
+                            
+                            
+                          });
+              wms_layers.push([lyr_Ortofotomozaika_27, 0]);
 var group_PorovnanieUGKK1mmerandaje = new ol.layer.Group({
                                 layers: [lyr_VkovrozdielyZDMR_22,lyr_Vekoszpornchrozdielov_23,lyr_Vekoskladnchrozdielov_24,lyr_Zpornrozdiely_25,lyr_Kladnrozdiely_26,],
                                 title: "Porovnanie UGKK 1m - merané údaje"});
@@ -550,8 +565,8 @@ var group_UAV = new ol.layer.Group({
                                 layers: [lyr_DMRzUAVsrozlenm10cm_0,lyr_DMRzUAVsrozlenm1m_1,],
                                 title: "UAV"});
 
-lyr_DMRzUAVsrozlenm10cm_0.setVisible(true);lyr_DMRzUAVsrozlenm1m_1.setVisible(true);lyr_DMRzmeranchdajovsrozlenm1m_2.setVisible(true);lyr_DMRzmeranchdajovsrozlenm10cm_3.setVisible(true);lyr_Meranbody_4.setVisible(true);lyr_DMRzGKKsrozlenm10cm_5.setVisible(true);lyr_DMRzGKKsrozlenm1m_6.setVisible(true);lyr_VkovrozdielyzDMR_7.setVisible(true);lyr_Vekoszpornchrozdielov_8.setVisible(true);lyr_Vekoskladnchrozdielov_9.setVisible(true);lyr_Zpornrozdiely_10.setVisible(true);lyr_Kladnrozdiely_11.setVisible(true);lyr_VkovrozdielyzDMR_12.setVisible(true);lyr_Vekoszpornchrozdielov_13.setVisible(true);lyr_Vekoskladnchrozdielov_14.setVisible(true);lyr_Zpornrozdiely_15.setVisible(true);lyr_Kladnrozdiely_16.setVisible(true);lyr_VkovrozdielyzDMR_17.setVisible(true);lyr_Vekoszpornchrozdielov_18.setVisible(true);lyr_Vekoskladnchrozdielov_19.setVisible(true);lyr_Zpornrozdiely_20.setVisible(true);lyr_Kladnrozdiely_21.setVisible(true);lyr_VkovrozdielyZDMR_22.setVisible(true);lyr_Vekoszpornchrozdielov_23.setVisible(true);lyr_Vekoskladnchrozdielov_24.setVisible(true);lyr_Zpornrozdiely_25.setVisible(true);lyr_Kladnrozdiely_26.setVisible(true);
-var layersList = [group_UAV,group_Meranie,group_UGKK,group_PorovnanieUAV010cmmerandaje,group_PorovnanieUAV1mmerandaje,group_PorovnanieUGKK10cmmerandaje,group_PorovnanieUGKK1mmerandaje];
+lyr_DMRzUAVsrozlenm10cm_0.setVisible(true);lyr_DMRzUAVsrozlenm1m_1.setVisible(true);lyr_DMRzmeranchdajovsrozlenm1m_2.setVisible(true);lyr_DMRzmeranchdajovsrozlenm10cm_3.setVisible(true);lyr_Meranbody_4.setVisible(true);lyr_DMRzGKKsrozlenm10cm_5.setVisible(true);lyr_DMRzGKKsrozlenm1m_6.setVisible(true);lyr_VkovrozdielyzDMR_7.setVisible(true);lyr_Vekoszpornchrozdielov_8.setVisible(true);lyr_Vekoskladnchrozdielov_9.setVisible(true);lyr_Zpornrozdiely_10.setVisible(true);lyr_Kladnrozdiely_11.setVisible(true);lyr_VkovrozdielyzDMR_12.setVisible(true);lyr_Vekoszpornchrozdielov_13.setVisible(true);lyr_Vekoskladnchrozdielov_14.setVisible(true);lyr_Zpornrozdiely_15.setVisible(true);lyr_Kladnrozdiely_16.setVisible(true);lyr_VkovrozdielyzDMR_17.setVisible(true);lyr_Vekoszpornchrozdielov_18.setVisible(true);lyr_Vekoskladnchrozdielov_19.setVisible(true);lyr_Zpornrozdiely_20.setVisible(true);lyr_Kladnrozdiely_21.setVisible(true);lyr_VkovrozdielyZDMR_22.setVisible(true);lyr_Vekoszpornchrozdielov_23.setVisible(true);lyr_Vekoskladnchrozdielov_24.setVisible(true);lyr_Zpornrozdiely_25.setVisible(true);lyr_Kladnrozdiely_26.setVisible(true);lyr_Ortofotomozaika_27.setVisible(true);
+var layersList = [group_UAV,group_Meranie,group_UGKK,group_PorovnanieUAV010cmmerandaje,group_PorovnanieUAV1mmerandaje,group_PorovnanieUGKK10cmmerandaje,group_PorovnanieUGKK1mmerandaje,lyr_Ortofotomozaika_27];
 lyr_Meranbody_4.set('fieldAliases', {'CB': 'CB', 'Y': 'Y', 'X': 'X', 'Z': 'Z', 'KOD': 'KOD', });
 lyr_Vekoszpornchrozdielov_8.set('fieldAliases', {'CB': 'CB', 'Y': 'Y', 'X': 'X', 'Z': 'Z', 'KOD': 'KOD', 'UAV01m_1': 'UAV01m_1', 'rozdiel': 'rozdiel', });
 lyr_Vekoskladnchrozdielov_9.set('fieldAliases', {'CB': 'CB', 'Y': 'Y', 'X': 'X', 'Z': 'Z', 'KOD': 'KOD', 'UAV01m_1': 'UAV01m_1', 'rozdiel': 'rozdiel', });
